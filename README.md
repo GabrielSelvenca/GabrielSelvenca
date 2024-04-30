@@ -1,12 +1,11 @@
-##
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=503&color=7000FF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1+me+chamo+Gabriel.;Este+%C3%A9+meu+perfil+!" alt="Readme header">
 
 ##
 
 <div>
   <a href="https://github.com/gsszs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gsszs&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsszs&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gsszs&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsszs&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ##
@@ -27,6 +26,6 @@
 
 <div>
   <h2>:mailbox: Contatos</h2>
-  <a href="[https://www.linkedin.com/in/gabriel-selvenca-05622628b/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-selvenca-05622628b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
