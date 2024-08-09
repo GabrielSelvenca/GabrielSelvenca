@@ -20,7 +20,6 @@
   <img align="center" alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center" alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
 </div>
 
 ##
