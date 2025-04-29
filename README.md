@@ -3,8 +3,13 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSelvenca&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSelvenca&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSelvenca&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
+</div>
+<div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSelvenca&theme=blueberry&hide_border=true"/>
+</div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSelvenca&theme=blueberry&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 ##
@@ -20,6 +25,7 @@
   <img align="center" alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center" alt="lua logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 </div>
 
 ##
