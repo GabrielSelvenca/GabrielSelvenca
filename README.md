@@ -24,6 +24,7 @@
   <img align="center" alt="C-logo" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Kotlin" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
   <img align="center" alt="lua logo" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,7 +33,6 @@
   <img align="center" alt="figma logo" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg" />
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 </div>
 
 ##
