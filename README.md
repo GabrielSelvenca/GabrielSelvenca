@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=503&color=7000FF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1+me+chamo+Gabriel.;Este+%C3%A9+meu+perfil+!" alt="Readme header">
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=503&color=7000FF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1+me+chamo+Gabriel.;Este+%C3%A9+meu+perfil+!" alt="Readme header"> 
 
 ##
 
@@ -13,7 +13,7 @@
 </div>
 
 ##
-
+-->
 <div style="display: inline_block" background-color: #fff; padding: 20px; border-radius: 12px;><br>
   <h2>Conhecimentos Gerais - DEV</h2>
   <img align="center" alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,7 @@
   <img align="center" alt="lua logo" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 </div>
-
+<!--
 <div style="display: inline_block"><br>
   <h2>Ferramentas Extras</h2>
   <img align="center" alt="git logo" height="70" width="70" src="https://cdn.simpleicons.org/git/F05032"/>
@@ -42,3 +42,4 @@
   <a href="https://www.linkedin.com/in/gabriel-selvenca-05622628b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
+-->
