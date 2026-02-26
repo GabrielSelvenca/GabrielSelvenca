@@ -6,6 +6,6 @@
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=dotnetcore,dotnet&theme=carbon" alt="Frameworks" /></a>
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs&theme=carbon" alt="Tools" /></a>
     <img width="50%" src="https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=carbon" alt="Languages" />
-    <img width="70%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,js,python,c,csharp,kotlin,json,xml,bash,react&theme=carbon" alt="Languages" />
+    <img width="70%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,js,python,c,csharp,kotlin,json,xml,bash,react,tailwind,next&theme=carbon" alt="Languages" />
   </a>
 </p>
